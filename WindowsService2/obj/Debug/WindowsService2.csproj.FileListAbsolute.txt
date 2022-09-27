@@ -1,0 +1,9 @@
+C:\Users\PC1\Desktop\WindowsService2\WindowsService2\obj\Debug\WindowsService2.csproj.AssemblyReference.cache
+C:\Users\PC1\Desktop\WindowsService2\WindowsService2\obj\Debug\WindowsService2.csproj.CoreCompileInputs.cache
+C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.config
+C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.pdb
+C:\Users\PC1\Desktop\WindowsService2\WindowsService2\obj\Debug\WindowsService2.exe
+C:\Users\PC1\Desktop\WindowsService2\WindowsService2\obj\Debug\WindowsService2.pdb
+C:\Users\PC1\Desktop\WindowsService2\WindowsService2\obj\Debug\WindowsService2.ProjectInstaller.resources
+C:\Users\PC1\Desktop\WindowsService2\WindowsService2\obj\Debug\WindowsService2.csproj.GenerateResource.cache

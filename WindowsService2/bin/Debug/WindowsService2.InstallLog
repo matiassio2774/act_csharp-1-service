@@ -1,0 +1,314 @@
+﻿Instalando ensamblado 'C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+No se pudieron encontrar instaladores públicos con el atributo RunInstallerAttribute.Yes en el ensamblado C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+Confirmando ensamblado 'C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+No se pudieron encontrar instaladores públicos con el atributo RunInstallerAttribute.Yes en el ensamblado C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+Quitar el archivo InstallState porque no hay instaladores.
+Instalando ensamblado 'C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Deshaciendo ensamblado 'C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Instalando ensamblado 'C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Instalando el servicio Service1...
+El servicio Service1 se ha instalado correctamente.
+Creando el origen de EventLog Service1 en el registro Application...
+Confirmando ensamblado 'C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Desinstalando ensamblado 'C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Quitando el origen de EventLog Service1.
+Se está quitando el servicio Service1 del sistema...
+El servicio Service1 se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Instalando el servicio Service1...
+El servicio Service1 se ha instalado correctamente.
+Creando el origen de EventLog Service1 en el registro Application...
+Confirmando ensamblado 'C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Desinstalando ensamblado 'C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Quitando el origen de EventLog Service1.
+Se está quitando el servicio Service1 del sistema...
+El servicio Service1 se ha quitado correctamente del sistema.
+Intento de detener el servicio Service1.
+Instalando ensamblado 'C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Instalando el servicio Service1...
+El servicio Service1 se ha instalado correctamente.
+Creando el origen de EventLog Service1 en el registro Application...
+Confirmando ensamblado 'C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Desinstalando ensamblado 'C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Quitando el origen de EventLog Service1.
+Se está quitando el servicio Service1 del sistema...
+El servicio Service1 se ha quitado correctamente del sistema.
+Desinstalando ensamblado 'C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Quitando el origen de EventLog Service1.
+Advertencia: el origen Service1 no está registrado en el equipo local.
+Se está quitando el servicio Service1 del sistema...
+Excepción durante la desinstalación del instalador System.ServiceProcess.ServiceInstaller.
+System.ComponentModel.Win32Exception: El servicio especificado no existe como servicio instalado
+Excepción al desinstalar. Esta excepción se pasará por alto y continuará el proceso de desinstalación. Sin embargo, puede que la aplicación no esté completamente desinstalada hasta que finalice la desinstalación.
+Instalando ensamblado 'C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Instalando el servicio Service1...
+El servicio Service1 se ha instalado correctamente.
+Creando el origen de EventLog Service1 en el registro Application...
+Confirmando ensamblado 'C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Desinstalando ensamblado 'C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Quitando el origen de EventLog Service1.
+Se está quitando el servicio Service1 del sistema...
+El servicio Service1 se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Instalando el servicio Service1...
+El servicio Service1 se ha instalado correctamente.
+Creando el origen de EventLog Service1 en el registro Application...
+Confirmando ensamblado 'C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Desinstalando ensamblado 'C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Quitando el origen de EventLog Service1.
+Se está quitando el servicio Service1 del sistema...
+El servicio Service1 se ha quitado correctamente del sistema.
+Intento de detener el servicio Service1.
+Instalando ensamblado 'C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Instalando el servicio Service1...
+El servicio Service1 se ha instalado correctamente.
+Creando el origen de EventLog Service1 en el registro Application...
+Confirmando ensamblado 'C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Desinstalando ensamblado 'C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Quitando el origen de EventLog Service1.
+Se está quitando el servicio Service1 del sistema...
+El servicio Service1 se ha quitado correctamente del sistema.
+Desinstalando ensamblado 'C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Quitando el origen de EventLog Service1.
+Advertencia: el origen Service1 no está registrado en el equipo local.
+Se está quitando el servicio Service1 del sistema...
+Excepción durante la desinstalación del instalador System.ServiceProcess.ServiceInstaller.
+System.ComponentModel.Win32Exception: El servicio especificado no existe como servicio instalado
+Excepción al desinstalar. Esta excepción se pasará por alto y continuará el proceso de desinstalación. Sin embargo, puede que la aplicación no esté completamente desinstalada hasta que finalice la desinstalación.
+Instalando ensamblado 'C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Instalando el servicio Service1...
+El servicio Service1 se ha instalado correctamente.
+Creando el origen de EventLog Service1 en el registro Application...
+Confirmando ensamblado 'C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Desinstalando ensamblado 'C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Quitando el origen de EventLog Service1.
+Se está quitando el servicio Service1 del sistema...
+El servicio Service1 se ha quitado correctamente del sistema.
+Intento de detener el servicio Service1.
+Instalando ensamblado 'C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Instalando el servicio Service1...
+El servicio Service1 se ha instalado correctamente.
+Creando el origen de EventLog Service1 en el registro Application...
+Confirmando ensamblado 'C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Desinstalando ensamblado 'C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Quitando el origen de EventLog Service1.
+Se está quitando el servicio Service1 del sistema...
+El servicio Service1 se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Instalando el servicio Service1...
+El servicio Service1 se ha instalado correctamente.
+Creando el origen de EventLog Service1 en el registro Application...
+Confirmando ensamblado 'C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Desinstalando ensamblado 'C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Quitando el origen de EventLog Service1.
+Se está quitando el servicio Service1 del sistema...
+El servicio Service1 se ha quitado correctamente del sistema.
+Intento de detener el servicio Service1.
+Instalando ensamblado 'C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Instalando el servicio Service1...
+El servicio Service1 se ha instalado correctamente.
+Creando el origen de EventLog Service1 en el registro Application...
+Confirmando ensamblado 'C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Desinstalando ensamblado 'C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Quitando el origen de EventLog Service1.
+Se está quitando el servicio Service1 del sistema...
+El servicio Service1 se ha quitado correctamente del sistema.
+Intento de detener el servicio Service1.
+Instalando ensamblado 'C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Instalando el servicio Service1...
+El servicio Service1 se ha instalado correctamente.
+Creando el origen de EventLog Service1 en el registro Application...
+Confirmando ensamblado 'C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Desinstalando ensamblado 'C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Quitando el origen de EventLog Service1.
+Se está quitando el servicio Service1 del sistema...
+El servicio Service1 se ha quitado correctamente del sistema.
+Intento de detener el servicio Service1.
+Desinstalando ensamblado 'C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Quitando el origen de EventLog Service1.
+Advertencia: el origen Service1 no está registrado en el equipo local.
+Se está quitando el servicio Service1 del sistema...
+Excepción durante la desinstalación del instalador System.ServiceProcess.ServiceInstaller.
+System.ComponentModel.Win32Exception: El servicio especificado no existe como servicio instalado
+Excepción al desinstalar. Esta excepción se pasará por alto y continuará el proceso de desinstalación. Sin embargo, puede que la aplicación no esté completamente desinstalada hasta que finalice la desinstalación.
+Instalando ensamblado 'C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Instalando el servicio Service1...
+El servicio Service1 se ha instalado correctamente.
+Creando el origen de EventLog Service1 en el registro Application...
+Confirmando ensamblado 'C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Desinstalando ensamblado 'C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Quitando el origen de EventLog Service1.
+Se está quitando el servicio Service1 del sistema...
+El servicio Service1 se ha quitado correctamente del sistema.

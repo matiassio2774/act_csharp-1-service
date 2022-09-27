@@ -1,0 +1,304 @@
+﻿
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+El archivo está ubicado en C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La fase de instalación finalizó correctamente y la fase de confirmación está empezando.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+El archivo está ubicado en C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La fase de confirmación finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+El archivo está ubicado en C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+Excepción durante la fase de instalación.
+System.InvalidOperationException: El usuario ha cancelado la instalación de los servicios en el archivo ejecutable C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+
+Iniciando la fase de desinstalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+El archivo está ubicado en C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La fase de retroceso al estado original finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+El archivo está ubicado en C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La fase de instalación finalizó correctamente y la fase de confirmación está empezando.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+El archivo está ubicado en C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La fase de confirmación finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+
+Iniciando la desinstalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+El archivo está ubicado en C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La desinstalación ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+El archivo está ubicado en C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La fase de instalación finalizó correctamente y la fase de confirmación está empezando.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+El archivo está ubicado en C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La fase de confirmación finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+
+Iniciando la desinstalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+El archivo está ubicado en C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La desinstalación ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+El archivo está ubicado en C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La fase de instalación finalizó correctamente y la fase de confirmación está empezando.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+El archivo está ubicado en C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La fase de confirmación finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+
+Iniciando la desinstalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+El archivo está ubicado en C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La desinstalación ha finalizado.
+
+
+Iniciando la desinstalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+El archivo está ubicado en C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La desinstalación ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+El archivo está ubicado en C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La fase de instalación finalizó correctamente y la fase de confirmación está empezando.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+El archivo está ubicado en C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La fase de confirmación finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+
+Iniciando la desinstalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+El archivo está ubicado en C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La desinstalación ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+El archivo está ubicado en C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La fase de instalación finalizó correctamente y la fase de confirmación está empezando.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+El archivo está ubicado en C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La fase de confirmación finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+
+Iniciando la desinstalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+El archivo está ubicado en C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La desinstalación ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+El archivo está ubicado en C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La fase de instalación finalizó correctamente y la fase de confirmación está empezando.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+El archivo está ubicado en C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La fase de confirmación finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+
+Iniciando la desinstalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+El archivo está ubicado en C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La desinstalación ha finalizado.
+
+
+Iniciando la desinstalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+El archivo está ubicado en C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La desinstalación ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+El archivo está ubicado en C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La fase de instalación finalizó correctamente y la fase de confirmación está empezando.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+El archivo está ubicado en C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La fase de confirmación finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+
+Iniciando la desinstalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+El archivo está ubicado en C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La desinstalación ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+El archivo está ubicado en C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La fase de instalación finalizó correctamente y la fase de confirmación está empezando.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+El archivo está ubicado en C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La fase de confirmación finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+
+Iniciando la desinstalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+El archivo está ubicado en C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La desinstalación ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+El archivo está ubicado en C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La fase de instalación finalizó correctamente y la fase de confirmación está empezando.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+El archivo está ubicado en C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La fase de confirmación finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+
+Iniciando la desinstalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+El archivo está ubicado en C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La desinstalación ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+El archivo está ubicado en C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La fase de instalación finalizó correctamente y la fase de confirmación está empezando.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+El archivo está ubicado en C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La fase de confirmación finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+
+Iniciando la desinstalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+El archivo está ubicado en C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La desinstalación ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+El archivo está ubicado en C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La fase de instalación finalizó correctamente y la fase de confirmación está empezando.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+El archivo está ubicado en C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La fase de confirmación finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+
+Iniciando la desinstalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+El archivo está ubicado en C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La desinstalación ha finalizado.
+
+
+Iniciando la desinstalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+El archivo está ubicado en C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La desinstalación ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+El archivo está ubicado en C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La fase de instalación finalizó correctamente y la fase de confirmación está empezando.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+El archivo está ubicado en C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La fase de confirmación finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+
+Iniciando la desinstalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+El archivo está ubicado en C:\Users\PC1\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog.
+
+La desinstalación ha finalizado.
